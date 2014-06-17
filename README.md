@@ -1,7 +1,7 @@
 NEWSCYCLE-Solutions-Customer-Portal 
 ===========
 
-Static templates I helpd createdfor NEWSCYCLE Digital and Content customers 
+Static templates that I helped created for NEWSCYCLE Solutions customers. The purpose of this project was to create a customer portal for SalesForce 
 
 I was asked to create two different layouts. I also added and customized a script for showing an "Alert" box. 
 
