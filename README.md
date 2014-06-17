@@ -1,4 +1,4 @@
-NEWSCYCLE-Solutions-Customer-Portal 
+NCS-Customer-Portal 
 ===========
 
 Static templates that I helped created for NEWSCYCLE Solutions customers. The purpose of this project was to create a customer portal for SalesForce 
