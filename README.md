@@ -13,3 +13,6 @@ http://swdev.tc1.dc.publicus.com/index.html&alert=true
 
 ## Layout 2
 http://swdev.tc1.dc.publicus.com/index2.html
+
+## Style Guide 
+http://swdev.tc1.dc.publicus.com/style_guide.html
