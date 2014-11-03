@@ -1,9 +1,9 @@
 NCS-Customer-Portal 
 ===========
 
-Static templates that I helped created for NEWSCYCLE Solutions customers. The purpose of this project was to create a customer portal for SalesForce 
+Static templates that I help create for NEWSCYCLE Solutions. The purpose of this project was to create a customer portal for SalesForce 
 
-I was asked to create two different layouts. I also added and customized a script for showing an "Alert" box. 
+I was asked to create two different layouts. I also added a script for showing an "Alert" box which is based on the "Get URL Parameters" script: http://www.netlobo.com/url_query_string_javascript.html
 
 ## Live Examples 
 
